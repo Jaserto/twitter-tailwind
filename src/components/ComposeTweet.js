@@ -15,7 +15,7 @@ export default function ComposeTweet() {
                 <div>
                     <textarea
                         className="bg-transparent text-lg"
-                        placeholder="What's happening?"
+                        placeholder="¿Qué está pasando?"
                         style={{ resize: 'none' }}
                     ></textarea>
                 </div>

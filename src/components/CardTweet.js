@@ -12,8 +12,8 @@ export default function CardTweet(props) {
             </div>
             <section className="px-4 flex-1">
                 <div className="flex">
-                    <h5 className="font-bold mr-2">Aditya Agarwal</h5>
-                    <span className="text-gray-400">@dev__adi</span>
+                    <h5 className="font-bold mr-2">Peperoni</h5>
+                    <span className="text-gray-400">@devveloper</span>
                 </div>
                 <p className="mt-1">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae itaque nemo nobis ea recusandae deserunt

@@ -23,7 +23,7 @@ function Home() {
                       <span>
                         <IconHome size="lg" className="" />
                       </span>
-                      <span className="ml-4 text-xl">Home</span>
+                      <span className="ml-4 text-xl">Inicio</span>
                     </span>
                   </span>
                 </a>
@@ -37,7 +37,7 @@ function Home() {
                       <span>
                         <IconExplore size="lg" className="" />
                       </span>
-                      <span className="ml-4 text-xl">Explore</span>
+                      <span className="ml-4 text-xl">Explorar</span>
                     </span>
                   </span>
                 </a>
@@ -51,7 +51,7 @@ function Home() {
                       <span>
                         <IconNotifications size="lg" className="" />
                       </span>
-                      <span className="ml-4 text-xl">Notifications</span>
+                      <span className="ml-4 text-xl">Notificaciones</span>
                     </span>
                   </span>
                 </a>
@@ -65,7 +65,7 @@ function Home() {
                       <span>
                         <IconMessages size="lg" className="" />
                       </span>
-                      <span className="ml-4 text-xl">Messages</span>
+                      <span className="ml-4 text-xl">Mensajes</span>
                     </span>
                   </span>
                 </a>
@@ -76,7 +76,7 @@ function Home() {
         <div>{/* Empty div to prevent sidebar overlap */}</div>
         <main className="min-h-screen border-l border-r border-gray-600">
           <header className="text-xl font-bold flex justify-between px-4 py-3 border-b border-gray-600">
-            <span>Home</span>
+            <span>Inicio</span>
             <IconNew className="text-primary" />
           </header>
           <ComposeTweet />

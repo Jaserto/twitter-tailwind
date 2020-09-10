@@ -4,7 +4,7 @@ export default function ListFollowSuggestions() {
     return (
         <section className="bg-gray rounded-xl">
             <div className="py-3 px-5 border-b border-gray-600">
-                <h4 className="text-xl font-bold">Trends for you</h4>
+                <h4 className="text-xl font-bold">¿A quién seguir?</h4>
             </div>
             <ul>
                 <li className="px-5 py-2 border-b border-gray-600 hover:bg-gray-900 flex justify-between items-center">
@@ -15,8 +15,8 @@ export default function ListFollowSuggestions() {
                         />
                     </div>
                     <div className="flex-1 pl-2 pr-1">
-                        <h6 className="font-bold">Kelly Vaughn</h6>
-                        <span className="text-gray-400 text-sm">@kvlly</span>
+                        <h6 className="font-bold">Paquito</h6>
+                        <span className="text-gray-400 text-sm">@paquito</span>
                     </div>
                     <ButtonSecondary>Follow</ButtonSecondary>
                 </li>
@@ -28,8 +28,8 @@ export default function ListFollowSuggestions() {
                         />
                     </div>
                     <div className="flex-1 pl-2 pr-1">
-                        <h6 className="font-bold">Kelly Vaughn</h6>
-                        <span className="text-gray-400 text-sm">@kvlly</span>
+                        <h6 className="font-bold">Mariano</h6>
+                        <span className="text-gray-400 text-sm">@Rajoy</span>
                     </div>
                     <ButtonSecondary>Follow</ButtonSecondary>
                 </li>
@@ -41,8 +41,8 @@ export default function ListFollowSuggestions() {
                         />
                     </div>
                     <div className="flex-1 pl-2 pr-1">
-                        <h6 className="font-bold">Kelly Vaughn</h6>
-                        <span className="text-gray-400 text-sm">@kvlly</span>
+                        <h6 className="font-bold">Obama</h6>
+                        <span className="text-gray-400 text-sm">@obama_us</span>
                     </div>
                     <ButtonSecondary>Follow</ButtonSecondary>
                 </li>

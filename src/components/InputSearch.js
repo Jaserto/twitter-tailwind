@@ -6,7 +6,7 @@ export default function InputSearch(props) {
             <span className="mr-3">
                 <IconSearch size="sm" className="text-gray-400 group-hover:text-primary" />
             </span>
-            <input type="text" placeholder="Search Twitter" className="bg-transparent" {...props}>
+            <input type="text" placeholder="Buscar en Twitter" className="bg-transparent" {...props}>
             </input>
         </div>
     );
