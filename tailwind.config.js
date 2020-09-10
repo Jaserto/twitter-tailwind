@@ -4,6 +4,7 @@ module.exports = {
     extend: {
       colors: {
         gray: {
+          600: 'hsl(205-7, 15-8%, 26.1%)',
           900: 'hsl(210, 27.5%, 20%)',
         },
         body: {
